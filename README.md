@@ -293,4 +293,4 @@ java -cp build/classes dev.oopproof.Main verify \
 
 ## Further Reading
 
-- [LinkedIn Article: Your Java Code Passes the Tests. Can You Prove It’s Extensible?]([docs/linkedin-article.md](https://www.linkedin.com/pulse/your-java-code-passes-tests-can-you-prove-its-extensible-feiyu-lu-6tlhc/))
+- [LinkedIn Article: Your Java Code Passes the Tests. Can You Prove It’s Extensible?](https://www.linkedin.com/pulse/your-java-code-passes-tests-can-you-prove-its-extensible-feiyu-lu-6tlhc/)
